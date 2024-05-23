@@ -136,16 +136,17 @@ endmodule
 ```
 
 # output
-
-
+![320417434-be30677f-15b5-4fc7-b9ec-3ec305974ccc](https://github.com/santhosh2574/VLSI-LAB-EXP-2/assets/167754920/bfb2fac7-5685-4b96-8791-0123ae1ca2a5)
 
 
 
 # RTL DESIGN
+<img width="767" alt="324469337-529c0ec3-d323-4b32-9bec-40d369cbae5c" src="https://github.com/santhosh2574/VLSI-LAB-EXP-2/assets/167754920/f27e3420-2a9c-4279-afdb-9f13f605dfa2">
 
 
 
 # MAGNITUDE COMPARATOR
+![320417851-ca9b5ed3-9b51-480a-889e-9474be9e35a1](https://github.com/santhosh2574/VLSI-LAB-EXP-2/assets/167754920/ab45c54f-1360-441f-8af0-da3234d0e45b)
 
 
 **verilog code**
@@ -178,10 +179,12 @@ endmodule
 ```
 
 # output
+![320417984-3b0a314f-3c1d-4e68-8284-020d02ebb8ef](https://github.com/santhosh2574/VLSI-LAB-EXP-2/assets/167754920/1ab3f640-9852-47fd-8926-debbe4cfeaa3)
 
 
 
 # RTL DESIGN
+<img width="761" alt="324469568-7e9455c7-f0a6-46cd-b86f-96a7b30bcef0" src="https://github.com/santhosh2574/VLSI-LAB-EXP-2/assets/167754920/d609b957-ad66-4725-9ad1-55bfb9be32de">
 
 
 
